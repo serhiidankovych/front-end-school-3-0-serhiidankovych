@@ -143,6 +143,18 @@ The app should now be running at [http://localhost:3000](http://localhost:3000)
 
 <br>
 
+## 🧠 Backend Overview — Music Manager API
+
+**Music Manager API** is a RESTful backend application built for managing music tracks.
+It provides endpoints for creating, reading, updating, and deleting tracks, along with validation, testing, and API documentation support.
+
+You can also find the backend for this project here:
+
+👉 **GitHub:**
+[https://github.com/serhiidankovych/music-manager-api](https://github.com/serhiidankovych/music-manager-api)
+
+<br>
+
 ## 🎓 Final Mentor Feedback & Key Learnings
 
 This project was improved through detailed mentor and peer code reviews. The final feedback below highlights strengths and key areas of growth.
