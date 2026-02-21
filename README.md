@@ -171,4 +171,7 @@ This project was improved through detailed mentor and peer code reviews. The fin
   <p>This feedback was invaluable for refining the codebase and strengthening my development practices.</p>
 </details>
 
+<img width="1220" height="851" alt="image" src="https://github.com/user-attachments/assets/6151f8c8-be77-4c15-9c4f-8c10677dc22b" />
+
+
 
